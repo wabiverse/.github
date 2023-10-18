@@ -1,1 +1,52 @@
+<!-- markdownlint-configure-file {
+  "MD013": {
+    "code_blocks": false,
+    "tables": false
+  },
+  "MD033": false,
+  "MD041": false
+} -->
 
+<div align="center">
+
+# [Wabi Foundation][wabi-foundation]
+
+[![WabiFoundation Kraken][kraken-version-badge]][kraken-github]
+[![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-github]
+[![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-github]
+
+The official home of the **Open Source Metaverse**.
+<br/>
+
+<br/>
+
+> ### [Kraken][kraken-github]<br/>
+> The **Metaverse** platform designed for content creation.
+
+<br/>
+
+> ### [Swift USD][swiftusd-github]<br/>
+> Pixar's Universal Scene Description for Swift and the **Metaverse**.
+
+<br/>
+
+> ### [MetaverseKit][metaversekit-github]<br/>
+> Managing dependencies across the **Metaverse**.
+
+<!-- ![WabiFoundation (version)]() -->
+
+[wabi-foundation]: https://wabi.foundation
+
+[kraken-github]: https://github.com/wabiverse/Kraken
+[swiftusd-github]: https://github.com/wabiverse/SwiftUSD
+[metaversekit-github]: https://github.com/wabiverse/MetaverseKit
+
+
+[kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.50a-purple
+[swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.0.9-blue
+[metaversekit-version-badge]: https://img.shields.io/badge/MultiverseKit-v1.0.0-orange
+
+<!-- ![WabiFoundation (documentation)]() -->
+
+[read-the-docs]: https://github.com/wabiverse/cosmos
+[read-the-docs-badge]: https://img.shields.io/badge/docs-soon-orange
