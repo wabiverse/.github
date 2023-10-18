@@ -30,7 +30,7 @@ The official home of the **Open Source Metaverse**.
 
 <br/>
 
-> ### [MetaverseKit][metaversekit-github]<br/>
+> ### [Metaverse Kit][metaversekit-github]<br/>
 > Managing dependencies across the **Metaverse**.
 
 <!-- ![WabiFoundation (version)]() -->
