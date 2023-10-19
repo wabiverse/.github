@@ -46,7 +46,7 @@ The official home of the **Open Source Metaverse**.
 
 [kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.50a-purple
 [swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.0.9-blue
-[metaversekit-version-badge]: https://img.shields.io/badge/MultiverseKit-v1.0.2-orange
+[metaversekit-version-badge]: https://img.shields.io/badge/MultiverseKit-v1.0.3-orange
 
 <!-- ![WabiFoundation (documentation)]() -->
 
