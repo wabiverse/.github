@@ -20,6 +20,10 @@
 The official home of the **Open Source Metaverse**.
 <br/>
 
+#### [🎵 This Week's Metaversal Theme][weekly-metaverse-themesong]
+
+<br/>
+
 <br/>
 
 > ### [Kraken][kraken-github]<br/>
@@ -36,6 +40,8 @@ The official home of the **Open Source Metaverse**.
 > Managing dependencies across the **Metaverse**.
 
 <!-- ![WabiFoundation (version)]() -->
+
+[weekly-metaverse-themesong]: https://youtu.be/83aztiT6uwA?si=kdtq8szngqR38OWi
 
 [wabi-foundation]: https://wabi.foundation
 [wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
