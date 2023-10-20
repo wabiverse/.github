@@ -20,10 +20,9 @@
 The official home of the **Open Source Metaverse**.
 <br/>
 
-#### [🎵 This Week's Metaversal Theme][weekly-metaverse-themesong]
+##### [🎵 This Week's Metaversal Theme][weekly-metaverse-themesong]
 
 <br/>
-
 <br/>
 
 > ### [Kraken][kraken-github]<br/>
@@ -38,6 +37,8 @@ The official home of the **Open Source Metaverse**.
 
 > ### [Metaverse Kit][metaversekit-github]<br/>
 > Managing dependencies across the **Metaverse**.
+
+<br/>
 
 <!-- ![WabiFoundation (version)]() -->
 
