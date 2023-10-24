@@ -44,7 +44,7 @@ The official home of the **Open Source Metaverse**.
 
 <!-- ![WabiFoundation (version)]() -->
 
-[weekly-metaverse-themesong]: https://youtu.be/83aztiT6uwA?si=kdtq8szngqR38OWi
+[weekly-metaverse-themesong]: https://youtu.be/yF5hUYoysjk?si=6RWoyty0lwrUkGDF
 
 [wabi-foundation]: https://wabi.foundation
 [wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
