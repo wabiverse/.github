@@ -25,25 +25,16 @@ The official home of the **Open Source Metaverse**.
 <br/>
 <br/>
 
-> ### [Kraken][kraken-github]<br/>
-> The **Metaverse** platform designed for content creation.
+[![Kraken Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Kraken&show_icons=true&theme=shades-of-purple)](https://github.com/wabiverse/Kraken)
 
-<br/>
+[![SwiftUSD Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=SwiftUSD&show_icons=true&theme=cobalt)](https://github.com/wabiverse/SwiftUSD)
 
-> ### [Swift USD][swiftusd-github]<br/>
-> Pixar's Universal Scene Description for Swift and the **Metaverse**.
-
-<br/>
-
-> ### [Metaverse Kit][metaversekit-github]<br/>
-> Managing dependencies across the **Metaverse**.
+[![MetaverseKit Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=MetaverseKit&show_icons=true&theme=radical)](https://github.com/wabiverse/MetaverseKit)
 
 <br/>
 <br/>
-
 
 <!-- ![WabiFoundation (version)]() -->
-
 
 [weekly-metaverse-themesong]: https://youtu.be/GPTY6l_PX5k?si=WLSKzLJAryfzuwUY
 
