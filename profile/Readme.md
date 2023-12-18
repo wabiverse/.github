@@ -41,15 +41,10 @@ Embark on the **Metaversal Frontier**.
 [wabi-foundation]: https://wabi.foundation
 [wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
 
-[kraken-github]: https://github.com/wabiverse/Kraken
-[swiftusd-github]: https://github.com/wabiverse/SwiftUSD
-[metaversekit-github]: https://github.com/wabiverse/MetaverseKit
+[kraken-github]: https://github.com/wabiverse/Kraken/releases/tag/v1.0.1
+[swiftusd-github]: https://github.com/wabiverse/SwiftUSD/releases/tag/v23.11.3
+[metaversekit-github]: https://github.com/wabiverse/MetaverseKit/releases/tag/v1.3.7
 
-[kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.50a-purple
+[kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.0.1-purple
 [swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.3-blue
 [metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.3.7-orange
-
-<!-- ![WabiFoundation (documentation)]() -->
-
-[read-the-docs]: https://github.com/wabiverse/cosmos
-[read-the-docs-badge]: https://img.shields.io/badge/docs-soon-orange
