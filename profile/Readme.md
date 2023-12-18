@@ -17,7 +17,7 @@
 [![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-github]
 [![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-github]
 
-The official home of the **Open Source Metaverse**.
+Embark on the **Metaversal Frontier**.
 <br/>
 
 ##### [🎵 This Week's Metaversal Theme][weekly-metaverse-themesong]
