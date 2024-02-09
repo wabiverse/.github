@@ -1,50 +1,28 @@
-<!-- markdownlint-configure-file {
-  "MD013": {
-    "code_blocks": false,
-    "tables": false
-  },
-  "MD033": false,
-  "MD041": false
-} -->
+### What's New
+
+**`import OpenColorIO`**            |  **`import OpenImageIO`** 
+:-------------------------:|:-------------------------:
+![](https://github.com/wabiverse/MetaverseKit/assets/18516968/34041f2b-44a8-4814-b2ae-075716a7ebad)  |  ![](https://github.com/wabiverse/MetaverseKit/assets/18516968/649e43f4-c821-4ffe-b0db-5efa0877a281)
 
 
-<div align="center">
+- You may now successfully import **OpenColorIO** and **OpenImageIO** directly into the Swift programming language and begin to consume these APIs directly, made possible by Swift **5.9**'s C++ interoperability feature.
 
-# <img width="26" src="https://wabi.foundation/images/author-image-wabi.png">&nbsp;&nbsp;&nbsp;[Wabi Foundation][wabi-foundation]
+### Usage
 
+Add **MetaverseKit** as a package dependency to your own Swift project's **`Package.swift`** file:
+```swift
+// swift-tools-version: 5.9
 
-[![WabiFoundation Kraken][kraken-version-badge]][kraken-github]
-[![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-github]
-[![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-github]
+dependencies: [
+  .package(url: "https://github.com/wabiverse/MetaverseKit", from: "1.4.4")
+]
+```
 
-Embark on the **Metaversal Frontier**.
-<br/>
-
-##### [🎵 This Week's Metaversal Theme][weekly-metaverse-themesong]
-
-<br/>
-<br/>
-
-[![Kraken Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Kraken&show_icons=true&theme=shades-of-purple)](https://github.com/wabiverse/Kraken)
-
-[![SwiftUSD Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=SwiftUSD&show_icons=true&theme=cobalt)](https://github.com/wabiverse/SwiftUSD)
-
-[![MetaverseKit Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=MetaverseKit&show_icons=true&theme=radical)](https://github.com/wabiverse/MetaverseKit)
-
-<br/>
-<br/>
-
-<!-- ![WabiFoundation (version)]() -->
-
-[weekly-metaverse-themesong]: https://www.youtube.com/watch?v=k8R5nlsYmVA
-
-[wabi-foundation]: https://wabi.foundation
-[wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
-
-[kraken-github]: https://github.com/wabiverse/Kraken/releases/tag/v1.0.3
-[swiftusd-github]: https://github.com/wabiverse/SwiftUSD/releases/tag/v23.11.21
-[metaversekit-github]: https://github.com/wabiverse/MetaverseKit/releases/tag/v1.4.3
-
-[kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.0.3-8A2BE2
-[swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.21-3A82EF
-[metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.4.3-EA538D
+#### Linux
+For Linux, these are the only dependencies required, as **MetaverseKit** provides everything else:
+| Dependency  | CentOS             | Ubuntu |
+| ------------- | --------------- | ------- |
+| **Boost**      | boost-devel      | libboost-all-dev  |
+| **Python**    | python3-devel | python3-dev        |
+| **BZ2**         | bzip2-devel      | libbz2-dev           |
+| **ZLib**        | zlib-devel          | zlib1g-dev           |
