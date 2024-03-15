@@ -43,8 +43,8 @@ Embark on the **Metaversal Frontier**.
 
 [kraken-github]: https://github.com/wabiverse/Kraken/releases/tag/v1.0.6
 [swiftusd-github]: https://github.com/wabiverse/SwiftUSD/releases/tag/v23.11.31
-[metaversekit-github]: https://github.com/wabiverse/MetaverseKit/releases/tag/v1.5.7
+[metaversekit-github]: https://github.com/wabiverse/MetaverseKit/releases/tag/v1.5.8
 
 [kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.0.6-8A2BE2
 [swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.31-3A82EF
-[metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.5.7-EA538D
+[metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.5.8-EA538D
