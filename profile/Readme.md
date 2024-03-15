@@ -14,8 +14,8 @@
 
 
 [![WabiFoundation Kraken][kraken-version-badge]][kraken-github]
-[![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-github]
-[![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-github]
+[![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-swiftpm]
+[![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-swiftpm]
 
 Embark on the **Metaversal Frontier**.
 <br/>
@@ -42,8 +42,8 @@ Embark on the **Metaversal Frontier**.
 [wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
 
 [kraken-github]: https://github.com/wabiverse/Kraken/releases/tag/v1.0.6
-[swiftusd-github]: https://github.com/wabiverse/SwiftUSD/releases/tag/v23.11.31
-[metaversekit-github]: https://github.com/wabiverse/MetaverseKit/releases/tag/v1.5.8
+[swiftusd-swiftpm]: https://swiftpackageindex.com/wabiverse/SwiftUSD
+[metaversekit-swiftpm]: https://swiftpackageindex.com/wabiverse/MetaverseKit
 
 [kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.0.6-8A2BE2
 [swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.31-3A82EF
