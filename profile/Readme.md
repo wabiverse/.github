@@ -46,5 +46,5 @@ Embark on the **Metaversal Frontier**.
 [metaversekit-swiftpm]: https://swiftpackageindex.com/wabiverse/MetaverseKit
 
 [kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.0.6-8A2BE2
-[swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.31-3A82EF
-[metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.5.8-EA538D
+[swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.33-3A82EF
+[metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.6.8-EA538D
