@@ -13,7 +13,7 @@
 # <img width="26" src="https://wabi.foundation/images/author-image-wabi.png">&nbsp;&nbsp;&nbsp;[Wabi Foundation][wabi-foundation]
 
 
-[![WabiFoundation Kraken][kraken-version-badge]][kraken-github]
+[![WabiFoundation Kraken][kraken-version-badge]][kraken-swiftpm]
 [![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-swiftpm]
 [![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-swiftpm]
 
@@ -41,10 +41,10 @@ Embark on the **Metaversal Frontier**.
 [wabi-foundation]: https://wabi.foundation
 [wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
 
-[kraken-github]: https://github.com/wabiverse/Kraken/releases/tag/v1.0.6
+[kraken-swiftpm]: https://swiftpackageindex.com/wabiverse/Kraken
 [swiftusd-swiftpm]: https://swiftpackageindex.com/wabiverse/SwiftUSD
 [metaversekit-swiftpm]: https://swiftpackageindex.com/wabiverse/MetaverseKit
 
 [kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.0.6-8A2BE2
-[swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.33-3A82EF
-[metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.6.8-EA538D
+[swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.34-3A82EF
+[metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.7.1-EA538D
