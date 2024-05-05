@@ -36,7 +36,7 @@ Embark on the **Metaversal Frontier**.
 
 <!-- ![WabiFoundation (version)]() -->
 
-[weekly-metaverse-themesong]: https://youtu.be/jUxv38vO6c4?si=6kfh5bixJVEOghOi
+[weekly-metaverse-themesong]: https://youtu.be/r31KK-px0uE?si=EKEJcf2bA9mKPu4X
 
 [wabi-foundation]: https://wabi.foundation
 [wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
@@ -45,6 +45,6 @@ Embark on the **Metaversal Frontier**.
 [swiftusd-swiftpm]: https://swiftpackageindex.com/wabiverse/SwiftUSD
 [metaversekit-swiftpm]: https://swiftpackageindex.com/wabiverse/MetaverseKit
 
-[kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.0.7-8A2BE2
+[kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.0.9-8A2BE2
 [swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v23.11.35-3A82EF
 [metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.7.2-EA538D
