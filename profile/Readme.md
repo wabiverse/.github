@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# <img width="26" src="https://wabi.foundation/images/author-image-wabi.png">&nbsp;&nbsp;&nbsp;[Wabi Foundation][wabi-foundation]
+# [Wabi Foundation][wabi-foundation]
 
 
 [![WabiFoundation Kraken][kraken-version-badge]][kraken-swiftpm]
