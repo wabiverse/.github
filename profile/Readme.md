@@ -18,6 +18,8 @@
 [![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-swiftpm]
 
 Embark on the **Metaversal Frontier**.
+
+<em>if you can `mmap` a **pixel**, you can `mmap` a **metaverse**.</em>
 <br/>
 
 ##### [🎵 This Week's Metaversal Theme][weekly-metaverse-themesong]
