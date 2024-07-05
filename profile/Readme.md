@@ -42,7 +42,7 @@ Embark on the **Metaversal Frontier**.
 
 <!-- ![WabiFoundation (version)]() -->
 
-[weekly-metaverse-themesong]: https://youtu.be/3hu42BHdISo?si=4KIrBFCz4ZD5tV71
+[weekly-metaverse-themesong]: https://youtu.be/KuVxFQdgMpk?si=eW5EIbgu0PfDWR6G
 
 [wabi-foundation]: https://wabi.foundation
 [wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
