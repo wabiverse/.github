@@ -31,8 +31,6 @@ Embark on the **Metaversal Frontier**.
 
 [![Nimbus Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Nimbus&show_icons=true&theme=tokyonight)](https://github.com/wabiverse/Nimbus)
 
-[![Cosmoverse Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Cosmoverse&show_icons=true&theme=ocean_dark)](https://github.com/wabiverse/Cosmoverse)
-
 [![SwiftUSD Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=SwiftUSD&show_icons=true&theme=cobalt)](https://github.com/wabiverse/SwiftUSD)
 
 [![MethaneKit Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=MethaneKit&show_icons=true&theme=synthwave)](https://github.com/wabiverse/MethaneKit)
