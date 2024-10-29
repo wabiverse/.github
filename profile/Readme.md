@@ -22,9 +22,12 @@ Embark on the **Metaversal Frontier**.
 <em>if you can `mmap` a **pixel**, you can `mmap` a **metaverse**.</em>
 <br/>
 
-##### [🎵 This Week's Metaversal Theme][weekly-metaverse-themesong]
+##### [🎧 This Week's Metaversal Theme][weekly-metaverse-themesong]
 
 <br/>
+
+###### checkout [**the swift collective**][the-swift-collective-org], for cross platform swift.
+
 <br/>
 
 [![Kraken Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Kraken&show_icons=true&theme=shades-of-purple)](https://github.com/wabiverse/Kraken)
@@ -43,6 +46,7 @@ Embark on the **Metaversal Frontier**.
 <!-- ![WabiFoundation (version)]() -->
 
 [weekly-metaverse-themesong]: https://youtu.be/FGYmpaRCyg0?si=dB1cFVZAwdfqH41m
+[the-swift-collective-org]: https://github.com/the-swift-collective
 
 [wabi-foundation]: https://wabi.foundation
 [wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
