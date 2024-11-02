@@ -10,7 +10,13 @@
 
 <div align="center">
 
-# [Wabi Foundation][wabi-foundation]
+
+<h1 align="center">
+  <a align="center" href="https://theswiftcollective.com">
+    <img align="center" height="50" src="https://theswiftcollective.com/images/author-image-wabifoundation.png">
+    &nbsp;Wabi Foundation
+  </a>
+</h1>
 
 
 [![WabiFoundation Kraken][kraken-version-badge]][kraken-swiftpm]
@@ -48,8 +54,8 @@ Embark on the **Metaversal Frontier**.
 [weekly-metaverse-themesong]: https://youtu.be/oNQCKYUzSCc?si=w_EQNrmSawyBVa9O
 [the-swift-collective-org]: https://github.com/the-swift-collective
 
-[wabi-foundation]: https://wabi.foundation
-[wabi-foundation-logo]: https://wabi.foundation/bb9f48ae83c2718cc0f5.svg
+[wabi-foundation]: https://theswiftcollective.com
+[wabi-foundation-logo]: https://theswiftcollective.com/images/author-image-wabi.svg
 
 [kraken-swiftpm]: https://swiftpackageindex.com/wabiverse/Kraken
 [swiftusd-swiftpm]: https://swiftpackageindex.com/wabiverse/SwiftUSD
