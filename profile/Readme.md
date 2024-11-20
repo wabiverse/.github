@@ -23,35 +23,37 @@
 [![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-swiftpm]
 [![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-swiftpm]
 
-Embark on the **Metaversal Frontier**.
+##### [🎧embark on the **metaversal frontier**][summon-development-music].
 
 <em>if you can `mmap` a **pixel**, you can `mmap` a **metaverse**.</em>
-<br/>
-
-##### [🎧 This Week's Metaversal Theme][weekly-metaverse-themesong]
-
 <br/>
 
 ###### checkout [**the swift collective**][the-swift-collective-org], for cross platform swift.
 
 <br/>
 
-[![Kraken Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Kraken&show_icons=true&theme=shades-of-purple)](https://github.com/wabiverse/Kraken)
+<a style href="https://github.com/wabiverse/Kraken">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Kraken&show_icons=true&theme=shades-of-purple"/>
+</a>
 
-[![Nimbus Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Nimbus&show_icons=true&theme=tokyonight)](https://github.com/wabiverse/Nimbus)
+<a href="https://github.com/wabiverse/Nimbus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=Nimbus&show_icons=true&theme=tokyonight"/>
+</a>
 
-[![SwiftUSD Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=SwiftUSD&show_icons=true&theme=cobalt)](https://github.com/wabiverse/SwiftUSD)
+<a href="https://github.com/wabiverse/SwiftUSD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=SwiftUSD&show_icons=true&theme=cobalt"/>
+</a>
 
-[![MethaneKit Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=MethaneKit&show_icons=true&theme=synthwave)](https://github.com/wabiverse/MethaneKit)
-
-[![MetaverseKit Card](https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=MetaverseKit&show_icons=true&theme=radical)](https://github.com/wabiverse/MetaverseKit)
+<a href="https://github.com/wabiverse/MetaverseKit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wabiverse&repo=MetaverseKit&show_icons=true&theme=synthwave"/>
+</a>
 
 <br/>
 <br/>
 
 <!-- ![WabiFoundation (version)]() -->
 
-[weekly-metaverse-themesong]: https://youtu.be/oNQCKYUzSCc?si=w_EQNrmSawyBVa9O
+[summon-development-music]: https://youtu.be/ny8s_Zy2AT0?si=UfBmSHBwRQ-uToCL
 [the-swift-collective-org]: https://github.com/the-swift-collective
 
 [wabi-foundation]: https://theswiftcollective.com
