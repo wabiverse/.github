@@ -53,7 +53,7 @@
 
 <!-- ![WabiFoundation (version)]() -->
 
-[summon-development-music]: https://open.spotify.com/track/132BwaBxU3CDj1FU9BFJUJ?si=144f2ab3e04f422c
+[summon-development-music]: https://open.spotify.com/track/08QGvTyesyJiodOHSH2QsW?si=29b3881963534a60
 [the-swift-collective-org]: https://github.com/the-swift-collective
 
 [wabi-foundation]: https://theswiftcollective.com
