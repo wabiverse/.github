@@ -32,20 +32,20 @@
 
 <br/>
 
-<a style href="https://github.com/wabiverse/Kraken">
-  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Kraken&show_icons=true&theme=shades-of-purple"/>
-</a>
-
-<a href="https://github.com/wabiverse/Nimbus">
-  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Nimbus&show_icons=true&theme=tokyonight"/>
-</a>
-
 <a href="https://github.com/wabiverse/SwiftUSD">
   <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=SwiftUSD&show_icons=true&theme=cobalt"/>
 </a>
 
 <a href="https://github.com/wabiverse/MetaverseKit">
   <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=MetaverseKit&show_icons=true&theme=synthwave"/>
+</a>
+
+<a style href="https://github.com/wabiverse/Kraken">
+  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Kraken&show_icons=true&theme=shades-of-purple"/>
+</a>
+
+<a href="https://github.com/wabiverse/Nimbus">
+  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Nimbus&show_icons=true&theme=tokyonight"/>
 </a>
 
 <br/>
