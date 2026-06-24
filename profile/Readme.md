@@ -32,8 +32,8 @@
 
 <br/>
 
-<a href="https://github.com/wabiverse/SwiftUSD">
-  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=SwiftUSD&show_icons=true&theme=cobalt"/>
+<a href="https://github.com/wabiverse/swift-usd">
+  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=swift-usd&show_icons=true&theme=cobalt"/>
 </a>
 
 <a href="https://github.com/wabiverse/MetaverseKit">
