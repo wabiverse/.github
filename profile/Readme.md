@@ -36,12 +36,12 @@
   <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=swift-usd&show_icons=true&theme=cobalt"/>
 </a>
 
-<a href="https://github.com/wabiverse/MetaverseKit">
-  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=MetaverseKit&show_icons=true&theme=synthwave"/>
+<a style href="https://github.com/wabiverse/Lattice">
+  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Lattice&show_icons=true&theme=shades-of-purple"/>
 </a>
 
-<a style href="https://github.com/wabiverse/Kraken">
-  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Kraken&show_icons=true&theme=shades-of-purple"/>
+<a href="https://github.com/wabiverse/MetaverseKit">
+  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=MetaverseKit&show_icons=true&theme=synthwave"/>
 </a>
 
 <a href="https://github.com/wabiverse/Nimbus">
@@ -53,7 +53,7 @@
 
 <!-- ![WabiFoundation (version)]() -->
 
-[summon-development-music]: https://open.spotify.com/track/7tYffqcmH736q19Aua28Y4?si=2c43734abaeb48af
+[summon-development-music]: https://open.spotify.com/track/4ccGNvE5wRTVmBgH5zToDE?si=d2cbbfc67af3493c
 [the-swift-collective-org]: https://github.com/the-swift-collective
 
 [wabi-foundation]: https://theswiftcollective.com
