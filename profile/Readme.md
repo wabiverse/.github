@@ -37,7 +37,7 @@
 </a>
 
 <a style href="https://github.com/wabiverse/Lattice">
-  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Lattice&show_icons=true&theme=shades-of-purple"/>
+  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Lattice&show_icons=true&theme=omni"/>
 </a>
 
 <a href="https://github.com/wabiverse/MetaverseKit">
