@@ -36,16 +36,16 @@
   <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=swift-usd&show_icons=true&theme=cobalt"/>
 </a>
 
+<a href="https://github.com/wabiverse/Akari">
+  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Akari&show_icons=true&theme=tokyonight"/>
+</a>
+
 <a style href="https://github.com/wabiverse/Lattice">
   <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Lattice&show_icons=true&theme=omni"/>
 </a>
 
 <a href="https://github.com/wabiverse/MetaverseKit">
   <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=MetaverseKit&show_icons=true&theme=synthwave"/>
-</a>
-
-<a href="https://github.com/wabiverse/Nimbus">
-  <img align="center" src="https://the-swift-collective.vercel.app/api/pin/?username=wabiverse&repo=Nimbus&show_icons=true&theme=tokyonight"/>
 </a>
 
 <br/>
