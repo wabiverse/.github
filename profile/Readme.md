@@ -12,16 +12,12 @@
 
 
 <h1 align="center">
-  <a align="center" href="https://theswiftcollective.com">
-    <img align="center" height="50" src="https://theswiftcollective.com/images/author-image-wabifoundation.png">
-    &nbsp;Wabi Foundation
-  </a>
+  <a href="https://wabifoundation.com"><img width="42" valign="middle" src="https://wabifoundation.com/assets/img/akari-icon.png"></a>&nbsp;&nbsp;<samp>Wabi Foundation</samp>
 </h1>
 
 
 [![WabiFoundation Kraken][kraken-version-badge]][kraken-swiftpm]
 [![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-swiftpm]
-[![WabiFoundation MetaverseKit][metaversekit-version-badge]][metaversekit-swiftpm]
 
 ###### <samp>♫ [<b>square pegs in round holes</b>][square-pegs-in-round-holes].</samp>
 
@@ -57,12 +53,10 @@
 [the-swift-collective-org]: https://github.com/the-swift-collective
 
 [wabi-foundation]: https://theswiftcollective.com
-[wabi-foundation-logo]: https://theswiftcollective.com/images/author-image-wabi.svg
+[wabi-foundation-logo]: https://wabifoundation.com/assets/img/akari-icon.png
 
-[kraken-swiftpm]: https://swiftpackageindex.com/wabiverse/Kraken
-[swiftusd-swiftpm]: https://swiftpackageindex.com/wabiverse/SwiftUSD
-[metaversekit-swiftpm]: https://swiftpackageindex.com/wabiverse/MetaverseKit
+[kraken-swiftpm]: https://swiftpackageindex.com/wabiverse/Akari
+[swiftusd-swiftpm]: https://swiftpackageindex.com/wabiverse/swift-usd
 
-[kraken-version-badge]: https://img.shields.io/badge/Kraken-v1.1.0-8A2BE2
-[swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v24.8.7-3A82EF
-[metaversekit-version-badge]: https://img.shields.io/badge/MetaverseKit-v1.8.5-EA538D
+[kraken-version-badge]: https://img.shields.io/badge/Kraken-v0.0.8-8A2BE2
+[swiftusd-version-badge]: https://img.shields.io/badge/SwiftUSD-v26.11.2-3A82EF
