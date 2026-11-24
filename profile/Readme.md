@@ -19,7 +19,7 @@
 [![WabiFoundation Kraken][kraken-version-badge]][kraken-swiftpm]
 [![WabiFoundation SwiftUSD][swiftusd-version-badge]][swiftusd-swiftpm]
 
-###### <samp>♫ [<b>square pegs in round holes</b>][square-pegs-in-round-holes].</samp>
+###### <samp>♫ [<b>dream in realtime</b>][dream-in-realtime].</samp>
 
 <em>if you can `mmap` a **pixel**, you can `mmap` a **metaverse**.</em>
 <br/>
@@ -49,7 +49,7 @@
 
 <!-- ![WabiFoundation (version)]() -->
 
-[square-pegs-in-round-holes]: https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx?si=5e92776fb85e47b2
+[dream-in-realtime]: https://open.spotify.com/track/2kH4liBtDANTBWYcMTyM4Z?si=fbf55318c38e413e
 [the-swift-collective-org]: https://github.com/the-swift-collective
 
 [wabi-foundation]: https://theswiftcollective.com
