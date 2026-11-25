@@ -49,7 +49,7 @@
 
 <!-- ![WabiFoundation (version)]() -->
 
-[dream-in-realtime]: https://open.spotify.com/track/2kH4liBtDANTBWYcMTyM4Z?si=fbf55318c38e413e
+[dream-in-realtime]: https://youtu.be/eISdgDJMFnA?si=graoVRy61cVvJAX6
 [the-swift-collective-org]: https://github.com/the-swift-collective
 
 [wabi-foundation]: https://theswiftcollective.com
